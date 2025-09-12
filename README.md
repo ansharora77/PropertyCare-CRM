@@ -30,6 +30,22 @@ Use Cases / Features:
  * Register property warranties and AMCs
  * Send automated reminders before expiry
  * Track warranty coverage
+
 - Maintenance Case Management
  * Residents submit maintenance requests
  * Auto-assign cases to service agents
+ * Track case status and SLA compliance
+
+- Service Agent Management
+ * Manage agent profiles and assignments
+ * Track agent performance metrics
+
+- Reporting & Dashboards
+ * Open vs Closed Maintenance Cases
+ * Expiring AMC/Warranty Dashboard
+ * Agent Performance Reports
+ * Monthly Maintenance Trends
+
+- Notifications & Communication
+ * Email alerts to property owners for AMC expiry or case updates
+ * In-app notifications for service agents
