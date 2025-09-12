@@ -24,3 +24,12 @@ Key features:
 - Maintenance Case Management
 - Service Agent Management
 - Reporting & Dashboards
+
+Use Cases / Features:
+- Warranty & AMC Management
+ * Register property warranties and AMCs
+ * Send automated reminders before expiry
+ * Track warranty coverage
+- Maintenance Case Management
+ * Residents submit maintenance requests
+ * Auto-assign cases to service agents
