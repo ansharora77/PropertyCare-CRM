@@ -49,3 +49,13 @@ Use Cases / Features:
 - Notifications & Communication
  * Email alerts to property owners for AMC expiry or case updates
  * In-app notifications for service agents
+
+Expected Outcomes:
+- Residents get timely service and reminders for warranties/AMCs
+- Service agents efficiently manage and resolve cases
+- Management gains real-time insights through dashboards
+- Improved customer satisfaction and operational efficiency
+
+Placeholders:
+- ERD Diagram
+- Salesforce Objects, Flows, and Dashboard Screenshots
