@@ -1,4 +1,4 @@
-**PROJECT TITLE**
+**PROJECT**
 
 **PropertyCare CRM - Post-Sale Warranty & AMC Tracker**
 
