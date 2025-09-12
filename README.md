@@ -1,8 +1,11 @@
 **PropertyCare CRM - Post-Sale Warranty & AMC Tracker**
 
 Industry: Real Estate
+
 Project Type: B2C Salesforce CRM Implementation
+
 Target Users: Property Owners, Service Agents, Property Managers
+
 Problem Statement:
 After purchasing a property, buyers often face difficulties managing warranty services, maintenance
 requests, and annual maintenance contracts (AMCs). Service teams struggle to track repair tickets,
