@@ -1,8 +1,6 @@
 **PROJECT**
 
-**Title** 
-
-**PropertyCare CRM - Post-Sale Warranty & AMC Tracker**
+**Project Title:PropertyCare CRM - Post-Sale Warranty & AMC Tracker**
 
 Industry: Real Estate
 
