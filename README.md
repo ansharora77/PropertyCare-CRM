@@ -15,6 +15,7 @@ To address this, the company wants to implement a Salesforce CRM to:
 - Manage maintenance requests and case assignments
 - Track service agent activities and SLA compliance
 - Provide real-time dashboards for management
+
 Solution Overview:
 PropertyCare CRM is a Salesforce-based system designed to streamline post-sale property
 management, improve resident satisfaction, and increase service team efficiency.
