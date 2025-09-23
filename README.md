@@ -1,6 +1,5 @@
 DOC LINK:
-https://docs.google.com/document/d/1til-2t6xnT_L0lqlL2TAfWtnHFEVjcKi/edit
-
+https://docs.google.com/document/d/1neKESoJRAu_XjmK2E0O2Yg_7Fqcq7f08U0oSXDbQN0c/edit?tab=t.0
 
 
 
