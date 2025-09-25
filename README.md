@@ -1,6 +1,6 @@
 DOCUMENT LINK:
 
-https://docs.google.com/document/d/1HlD3WdqoGm9P5SKtN3p_g25UIft09bhD/edit?usp=sharing&ouid=105200473356505476043&rtpof=true&sd=true
+https://docs.google.com/document/d/1gHML8XbFb8cV0r1wFud72YtnVWh5559A6XWe9p0IneE/edit?usp=sharing
 
 **PROJECT**
 
